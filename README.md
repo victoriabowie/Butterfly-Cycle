@@ -1,2 +1,2 @@
 # Butterfly-Cycle
-The cycle of a butterfly
+The cycle of a butterfly.
